@@ -13,6 +13,11 @@ I am a CRM and Marketing Operations Specialist with experience in HubSpot, Marke
 - Built active lists and workflows
 - Improved reporting accuracy
 
+Business Impact:
+• Reduced need for multiple course-specific forms
+• Improved reporting and lead attribution
+• Automated contact segmentation
+
 ### WhatsApp Lead Qualification
 
 - Meta Ads to WhatsApp automation
@@ -38,4 +43,4 @@ I am a CRM and Marketing Operations Specialist with experience in HubSpot, Marke
 
 ## Contact
 
-LinkedIn: Add your LinkedIn URL here
+LinkedIn:https://www.linkedin.com/in/prasannakumar-martech/
